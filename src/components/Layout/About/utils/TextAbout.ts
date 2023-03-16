@@ -1,0 +1,7 @@
+export const textAbout: string[] = [
+  "Desde pequeno, sempre tive a certeza de que queria seguir carreira na área jurídica. Aos 21 anos, passei no exame da OAB e iniciei minha jornada como advogado. Foram anos de muito estudo e dedicação, buscando sempre me atualizar e aprimorar minhas habilidades para oferecer o melhor serviço aos meus clientes.",
+  "Ao longo dos anos, tive a oportunidade de trabalhar em diversas áreas do direito, desde casos criminais até disputas empresariais. Com cada experiência, aprendi lições valiosas e aprimorei minhas técnicas de defesa.",
+  "Com o passar dos anos, decidi me especializar em Direito Empresarial, área que me fascinava pela complexidade e desafios envolvidos. Meus esforços foram recompensados com a conquista de uma certificação nessa área, o que me deu ainda mais confiança para lidar com casos empresariais.",
+  "No entanto, senti que faltava algo na minha atuação como advogado. Foi então que decidi buscar especialização em Mediação e Resolução de Conflitos, acreditando que essa era uma das principais funções do advogado. Foi uma decisão acertada, pois me permitiu oferecer um serviço mais completo e satisfatório aos meus clientes.",
+  "Hoje, após 20 anos de experiência, sinto-me grato por cada desafio superado e por cada cliente satisfeito com o meu trabalho. A advocacia é uma jornada constante de aprendizado e aprimoramento, e estou animado para continuar nessa trajetória de sucesso."
+]
